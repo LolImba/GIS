@@ -1,0 +1,9 @@
+{
+  "id": "eventeditor",
+  "title": "EventEditor",
+  "group": "2 Intermediate",
+  "description": "Shows a detail window where you can edit the fields for your events.",
+  "cssPath": "resources/app.css",
+  "className": "Sch.examples.eventeditor.view.Scheduler",
+  "tags": "eventeditor,plugin,edit"
+}
