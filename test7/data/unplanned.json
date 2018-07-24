@@ -1,0 +1,50 @@
+[
+            {
+                "Id" : "1",
+                "Name"      : "#1",
+                "Duration"  : "0.5",
+                "Location"   : "Some office"
+            },
+            {
+                "Id" : "2",
+                "Name"      : "n4",
+                "Duration"  : "1",
+                "Location"   : "Home office"
+            },
+            {
+                "Id" : "3",
+                "Name"       : "n3",
+                "Duration"  : "2",
+                "Location"   : "Customer office"
+            },
+            {
+                "Id" : "4",
+                "Name"       : "n2",
+                "Duration"  : "1.5",
+                "Location"   : "Some office"
+            },
+            {
+                "Id" : "5",
+                "Name"      : "n1",
+                "Duration"  : "2.5",
+                "Location"   : "Home office"
+            },
+            {
+                "Id" : "6",
+                "Name"       : "some event",
+                "Duration"  : "1.5",
+                "Location"   : "Customer office"
+            },
+            {
+                "Id" : "7",
+                "Name"      : "ttt",
+                "Duration"  : "1",
+                "Location"   : "Home office",
+            },
+            {
+                "Id" : "8",
+                "Name"       : "asd",
+                "Duration"  : "2",
+                "Location"   : "Customer office"
+            }
+]

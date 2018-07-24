@@ -1,0 +1,147 @@
+{
+  "success": true,
+  "resources": {
+    "rows": [
+      {
+        "Id": "1",
+        "Name": "Mike",
+        "Description": " ",
+        "ParentId": "Null",
+        "Color"       : "#87bceb"
+      },
+      {
+        "Id": "2",
+        "Name": "Linda",
+        "Description": " ",
+        "ParentId": "Null",
+        "Color"       : "#87bceb"
+      },
+      {
+        "Id": "3",
+        "Name": "Brian",
+        "Description": " ",
+        "ParentId": "Null",
+        "Color"       : "#87bceb"
+      },
+      {
+        "Id": "4",
+        "Name": "Don",
+        "Description": " ",
+        "ParentId": "Null",
+        "Color"       : "#1e6fb7"
+      },
+      {
+        "Id": "5",
+        "Name": "Doug",
+        "Description": " ",
+        "ParentId": "Null",
+        "Color"       : "#1e6fb7"
+      },
+      {
+        "Id": "6",
+        "Name": "Sergey",
+        "Description": " ",
+        "ParentId": "Null",
+        "Color"       : "#1e6fb7"
+      },
+      {
+        "Id": "7",
+        "Name": "Jake",
+        "Description": " ",
+        "ParentId": "Null",
+        "Color"       : "#13bc7c"
+      },
+      {
+        "Id": "8",
+        "Name": "Jack",
+        "Description": " ",
+        "ParentId": "Null",
+        "Color"       : "#13bc7c"
+      }
+    ]
+  },
+  "events": {
+    "rows": [
+      {
+        "ResourceId" : "1",
+        "Title"      : "Meeting #1",
+        "StartDate"  : "2017-02-07 11:00",
+        "EndDate"    : "2017-02-07 14:00",
+        "Location"   : "Some office",
+
+        "EventType" : "Meeting"
+      },
+      {
+        "ResourceId" : "2",
+        "Title"      : "Meeting #2",
+        "StartDate"  : "2017-02-07 12:00",
+        "EndDate"    : "2017-02-07 15:00",
+        "Location"   : "Home office",
+
+        "EventType" : "Meeting"
+      },
+      {
+        "ResourceId" : "3",
+        "Title"      : "Meeting #3",
+        "StartDate"  : "2017-02-07 13:00",
+        "EndDate"    : "2017-02-07 16:00",
+        "Location"   : "Customer office",
+
+        "EventType" : "Meeting"
+      },
+      {
+        "ResourceId" : "4",
+        "Title"      : "Meeting #4",
+        "StartDate"  : "2017-02-07 09:00",
+        "EndDate"    : "2017-02-07 11:00",
+        "Location"   : "Some office",
+
+        "EventType" : "Meeting"
+      },
+      {
+        "ResourceId" : "5",
+        "Title"      : "Appointment #1",
+        "StartDate"  : "2017-02-07 10:00",
+        "EndDate"    : "2017-02-07 12:00",
+        "Location"   : "Home office",
+
+        "Type" : "Dental",
+
+        "EventType" : "Appointment"
+      },
+      {
+        "ResourceId" : "6",
+        "Title"      : "Appointment #2",
+        "StartDate"  : "2017-02-07 11:00",
+        "EndDate"    : "2017-02-07 13:00",
+        "Location"   : "Customer office",
+
+        "Type" : "Medical",
+
+        "EventType" : "Appointment"
+      },
+      {
+        "ResourceId" : "7",
+        "Title"      : "Appointment #3",
+        "StartDate"  : "2017-02-07 14:00",
+        "EndDate"    : "2017-02-07 17:00",
+        "Location"   : "Home office",
+
+        "Type" : "Medical",
+
+        "EventType" : "Appointment"
+      },
+      {
+        "ResourceId" : "8",
+        "Title"      : "Appointment #4",
+        "StartDate"  : "2017-02-07 15:00",
+        "EndDate"    : "2017-02-07 18:00",
+        "Location"   : "Customer office",
+
+        "Type" : "Dental",
+
+        "EventType" : "Appointment"
+      }
+    ]
+  }
+}
